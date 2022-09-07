@@ -1,6 +1,6 @@
 # The Project
 
-You are tasked with creating a library and application that processes transactions on the PAYROC gateway. Given the supplied sequence diagram and card data file you will need to create a library that simulates a transaction. The application should handle all messaging and events from the library.
+You are tasked with creating a library and application that processes transactions on the PAYROC gateway. Given the supplied sequence diagram and [card data](card_data.xml) file you will need to create a library that simulates a transaction. The application should handle all messaging and events from the library.
 
 The app should have the following functionality:
 
