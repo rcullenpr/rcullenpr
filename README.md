@@ -16,7 +16,7 @@ The app should have the following functionality:
   - It is up to the implementer how to display the data.
   - UI design and implementation will be of interest for this task.
 
-Project can be submitted via zip or via a github repo link. Any additional testing tools or documentation should be included.
+The application and library can be iOS or Android based. Implementer can choose their preferred language.Project can be submitted via zip or via a github repo link. Any additional testing tools or documentation should be included.
 
 # Simulator Diagram
 
